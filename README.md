@@ -150,23 +150,26 @@ mvn exec:java "-Dexec.mainClass=com.library.App"
 
 ## 🖥️ Application Screenshots
 
-Add screenshots of your application below to demonstrate its interface and functionality.
 
 ### Dashboard
 
-<!-- Add your dashboard screenshot here -->
+<img width="960" height="600" alt="Screenshot 2026-10-22 100737" src="https://github.com/user-attachments/assets/f56866c0-fc60-4d31-8c8c-80c67988eb7a" />
+
 
 ### Book Management
 
-<!-- Add your book management screenshot here -->
+<img width="960" height="600" alt="Screenshot 2026-10-22 100850" src="https://github.com/user-attachments/assets/8e3711cd-a8af-46cf-9826-6ff18508ff18" />
+
 
 ### Member Management
 
-<!-- Add your member management screenshot here -->
+<img width="960" height="600" alt="Screenshot 2026-10-22 100910" src="https://github.com/user-attachments/assets/015ccc9d-a355-44b9-b654-7aa3de3ad353" />
+
 
 ### Issue and Return Management
 
-<!-- Add your issue and return screenshots here -->
+<img width="950" height="559" alt="Screenshot 2026-10-22 101701" src="https://github.com/user-attachments/assets/e4e372df-80c2-4fab-bb8d-3fa35aec5f87" />
+
 
 ## 📚 Concepts Demonstrated
 
@@ -190,14 +193,6 @@ Add screenshots of your application below to demonstrate its interface and funct
 * Export reports to PDF or CSV.
 * Improve the interface design and usability.
 
-## 👨‍💻 Author
 
-**Student Project — Library Management System**
 
-* GitHub: Add your GitHub profile link here.
-* College: Add your college name here.
-* Department: Computer Science and Engineering.
 
-## 📄 License
-
-No license has been specified yet. Add an appropriate license if you intend to allow others to reuse or distribute this project.
