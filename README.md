@@ -93,7 +93,6 @@ Database relationships and constraints help maintain consistency between related
 
 6. Configure the database connection in `DBConnection.java` or your local configuration.
 
-**Important:** This repository must include the SQL setup script before other developers can recreate the complete database. Update this section with the actual SQL filename once you add it.
 
 ## ⚙️ Prerequisites
 
@@ -184,14 +183,7 @@ mvn exec:java "-Dexec.mainClass=com.library.App"
 * Maven-based project management
 * Git version control
 
-## 🔮 Future Enhancements
 
-* Complete the remaining GUI screens and connect them to the database.
-* Add search, filtering, and sorting to data tables.
-* Improve input validation and error messages.
-* Add authentication and role-based access.
-* Export reports to PDF or CSV.
-* Improve the interface design and usability.
 
 
 
